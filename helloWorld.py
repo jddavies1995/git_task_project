@@ -1,2 +1,2 @@
-x = input("Input anything you want:")
-print(x)
+y = input("Input anything you want:")
+print(y)
